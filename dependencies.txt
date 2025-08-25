@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+numpy
+langchain_community
+langchain_huggingface
+langchain_chroma
+sentence-transformers
+ipywidgets
+jupyter
